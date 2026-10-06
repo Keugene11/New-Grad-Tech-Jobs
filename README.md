@@ -1,6 +1,6 @@
 # New Grad Tech Jobs
 
-**125 open entry-level and new-grad roles in software, data, AI/ML, quant and hardware, across 86 companies.**
+**124 open entry-level and new-grad roles in software, data, AI/ML, quant and hardware, across 85 companies.**
 
 Generated straight from company job boards by [Understudy](https://understudy.live/?utm_source=ghlist&utm_medium=title) — no hand-curation, no agency reposts, no dead links left sitting for weeks. A role appears here within minutes of going up on the employer's own board, and disappears when the board stops listing it.
 
@@ -8,7 +8,7 @@ Generated straight from company job boards by [Understudy](https://understudy.li
 
 ---
 
-### Browse 125 New Grad Roles by Category
+### Browse 124 New Grad Roles by Category
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (4)
 
@@ -16,7 +16,7 @@ Generated straight from company job boards by [Understudy](https://understudy.li
 
 🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (9)
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (76)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (75)
 
 ---
 
@@ -236,7 +236,6 @@ and submits these applications for you instead of you doing it by hand.
 <tr><td><strong>Btisolutions</strong></td><td>Jr. Front-End Developer 🏠</td><td>Remote, TX</td><td align="center"><a href="https://btisolutions.wd12.myworkdayjobs.com/external/job/Remote-TX/Jr-Front-End-Developer_JR102080-1?utm_source=understudy&amp;ref=understudy-list">Apply</a></td><td>4d</td></tr>
 <tr><td>↳</td><td>Junior Full Stack Developer</td><td>Plano, TX</td><td align="center"><a href="https://btisolutions.wd12.myworkdayjobs.com/external/job/Plano-TX/Junior-Full-Stack-Developer_JR102071-1?utm_source=understudy&amp;ref=understudy-list">Apply</a></td><td>10d</td></tr>
 <tr><td><strong>Parsons</strong></td><td>Junior Software Developer - TS/SCI</td><td>US VA Herndon</td><td align="center"><a href="https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Herndon/Junior-Software-Developer---TS-SCI_R182648?utm_source=understudy&amp;ref=understudy-list">Apply</a></td><td>4d</td></tr>
-<tr><td><strong>BTI Solutions</strong></td><td>Jr. Front-End Developer 🏠</td><td>Remote, TX</td><td align="center"><a href="https://btisolutions.wd12.myworkdayjobs.com/External/job/Remote-TX/Jr-Front-End-Developer_JR102080-1?utm_source=understudy&amp;ref=understudy-list">Apply</a></td><td>4d</td></tr>
 <tr><td><strong>IMC</strong></td><td>Software Engineer, Early Career 🔥</td><td>Chicago, United States</td><td align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4796143101?utm_source=understudy&amp;ref=understudy-list">Apply</a></td><td>5d</td></tr>
 <tr><td><strong>Freedom Technology Solutions Group</strong></td><td>Backend Developer Junior 790</td><td>St. Louis, MO</td><td align="center"><a href="https://job-boards.greenhouse.io/freedomconsulting/jobs/5252868007?utm_source=understudy&amp;ref=understudy-list">Apply</a></td><td>5d</td></tr>
 <tr><td><strong>Jobgether</strong></td><td>Jr. Enterprise Solutions Engineer 🏠</td><td>US</td><td align="center"><a href="https://jobs.lever.co/jobgether/9b64712e-8144-4781-9051-d138554ad02d?utm_source=understudy&amp;ref=understudy-list">Apply</a></td><td>5d</td></tr>
@@ -280,5 +279,5 @@ and submits these applications for you instead of you doing it by hand.
 ---
 
 <div align="center">
-  <sub>Last updated <strong>2026-10-06 01:33 UTC</strong> · regenerated several times a day · built by <a href="https://understudy.live/?utm_source=ghlist&utm_medium=footer">Understudy</a></sub>
+  <sub>Last updated <strong>2026-10-06 01:38 UTC</strong> · regenerated several times a day · built by <a href="https://understudy.live/?utm_source=ghlist&utm_medium=footer">Understudy</a></sub>
 </div>
