@@ -1,5 +1,7 @@
 # New Grad Tech Jobs
 
+[![Last refreshed](https://img.shields.io/github/last-commit/Keugene11/New-Grad-Tech-Jobs?label=last%20refreshed&style=flat-square&color=0a7cff)](https://github.com/Keugene11/New-Grad-Tech-Jobs/commits/main) ![Open roles](https://img.shields.io/badge/open%20roles-124-brightgreen?style=flat-square) ![Companies](https://img.shields.io/badge/companies-85-blue?style=flat-square) [![Applies for you](https://img.shields.io/badge/apply%20automatically-Understudy-black?style=flat-square)](https://understudy.live/?utm_source=ghlist&utm_medium=badge)
+
 **124 open entry-level and new-grad roles in software, data, AI/ML, quant and hardware, across 85 companies.**
 
 Generated straight from company job boards by [Understudy](https://understudy.live/?utm_source=ghlist&utm_medium=title) — no hand-curation, no agency reposts, no dead links left sitting for weeks. A role appears here within minutes of going up on the employer's own board, and disappears when the board stops listing it.
@@ -279,5 +281,5 @@ and submits these applications for you instead of you doing it by hand.
 ---
 
 <div align="center">
-  <sub>Last updated <strong>2026-10-06 01:41 UTC</strong> · regenerated several times a day · built by <a href="https://understudy.live/?utm_source=ghlist&utm_medium=footer">Understudy</a></sub>
+  <sub>Last updated <strong>2026-10-06 01:43 UTC</strong> · regenerated several times a day · built by <a href="https://understudy.live/?utm_source=ghlist&utm_medium=footer">Understudy</a></sub>
 </div>
