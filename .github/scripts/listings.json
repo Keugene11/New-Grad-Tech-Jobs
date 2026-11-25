@@ -1,5 +1,305 @@
 [
  {
+  "id": "external--640d60ae-93db-4f49-b271-4fcade3a7d7a",
+  "company_name": "Weekday AI",
+  "title": "AI Data Contributor",
+  "url": "https://apply.workable.com/weekday-1/j/FE232C4F67/apply?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Remote in USA",
+   "Remote in Canada"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795592527,
+  "date_updated": 1795616909,
+  "category": "data",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "Other",
+  "on_simplify": true,
+  "source": {
+   "ats": "external",
+   "board": "",
+   "job_id": "640d60ae-93db-4f49-b271-4fcade3a7d7a"
+  },
+  "understudy_url": ""
+ },
+ {
+  "id": "external--b4da1054-8bb0-4994-ab28-a7d8190f5116",
+  "company_name": "TikTok",
+  "title": "Backend Software Engineer - Data Lifecycle Management",
+  "url": "https://lifeattiktok.com/search/7710030288165996805?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "San Jose, CA"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795590887,
+  "date_updated": 1795616909,
+  "category": "swe",
+  "terms": [],
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "on_simplify": true,
+  "source": {
+   "ats": "external",
+   "board": "",
+   "job_id": "b4da1054-8bb0-4994-ab28-a7d8190f5116"
+  },
+  "understudy_url": ""
+ },
+ {
+  "id": "greenhouse-podium81-8416283",
+  "company_name": "Podium",
+  "title": "AI Success Consultant",
+  "url": "https://job-boards.greenhouse.io/podium81/jobs/8416283?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Lehi, Utah"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795586129,
+  "date_updated": 1795616909,
+  "category": "data",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "Other",
+  "on_simplify": false,
+  "source": {
+   "ats": "greenhouse",
+   "board": "podium81",
+   "job_id": "8416283"
+  },
+  "understudy_url": "https://understudy.live/apply/32556247?utm_source=ghlist&utm_medium=row"
+ },
+ {
+  "id": "icims-careers-nikkiso.icims.com-4425",
+  "company_name": "Nikkiso",
+  "title": "Test Engineer I",
+  "url": "https://careers-nikkiso.icims.com/jobs/4425/test-engineer-i/job?utm_source=understudy&ref=understudy-list",
+  "locations": [],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795573750,
+  "date_updated": 1795616909,
+  "category": "swe",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "Other",
+  "on_simplify": false,
+  "source": {
+   "ats": "icims",
+   "board": "careers-nikkiso.icims.com",
+   "job_id": "4425"
+  },
+  "understudy_url": "https://understudy.live/apply/32502061?utm_source=ghlist&utm_medium=row"
+ },
+ {
+  "id": "external--5c2a2c7d-778c-41cb-b429-18f64a9e6331",
+  "company_name": "Prolucid Technologies",
+  "title": "Junior Software Engineer",
+  "url": "https://apply.workable.com/prolucid-technologies/j/DBA98070BB/apply?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Mississauga, ON, Canada"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795573001,
+  "date_updated": 1795616909,
+  "category": "swe",
+  "terms": [],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "on_simplify": true,
+  "source": {
+   "ats": "external",
+   "board": "",
+   "job_id": "5c2a2c7d-778c-41cb-b429-18f64a9e6331"
+  },
+  "understudy_url": ""
+ },
+ {
+  "id": "external--d1793677-6679-4021-a52b-75b87bbb2676",
+  "company_name": "Metropolitan Transportation Authority",
+  "title": "Application Developer Analyst Levels 1–2",
+  "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oHP8AfwY?nl=1&nl=1&fr=false&utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Jamaica, Queens, NY"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795570395,
+  "date_updated": 1795616909,
+  "category": "swe",
+  "terms": [],
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "on_simplify": true,
+  "source": {
+   "ats": "external",
+   "board": "",
+   "job_id": "d1793677-6679-4021-a52b-75b87bbb2676"
+  },
+  "understudy_url": ""
+ },
+ {
+  "id": "external--dcfd7381-287a-4da3-80dd-921874660ecc",
+  "company_name": "Oracle",
+  "title": "Systems Engineer 1",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350415?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Kansas City, MO"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795569665,
+  "date_updated": 1795616909,
+  "category": "swe",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "Other",
+  "on_simplify": true,
+  "source": {
+   "ats": "external",
+   "board": "",
+   "job_id": "dcfd7381-287a-4da3-80dd-921874660ecc"
+  },
+  "understudy_url": ""
+ },
+ {
+  "id": "external--8897b0b8-300d-49d6-ae33-16dbce5038e7",
+  "company_name": "Deloitte",
+  "title": "Software Engineer",
+  "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Services-Associate-Software-Engineering-Summer-Fall-2027/376512?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Hermitage, Nashville, TN"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795569265,
+  "date_updated": 1795616909,
+  "category": "swe",
+  "terms": [],
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "on_simplify": true,
+  "source": {
+   "ats": "external",
+   "board": "",
+   "job_id": "8897b0b8-300d-49d6-ae33-16dbce5038e7"
+  },
+  "understudy_url": ""
+ },
+ {
+  "id": "greenhouse-decibio-8961111002",
+  "company_name": "DeciBio Consulting",
+  "title": "Life Science Data Analyst, DxBooks",
+  "url": "https://www.decibio.com/careers/open-positions?gh_jid=8961111002&utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "London & New York City (Hybrid or Remote may be considered)"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795565397,
+  "date_updated": 1795616909,
+  "category": "data",
+  "terms": [],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Does Not Offer Sponsorship",
+  "on_simplify": true,
+  "source": {
+   "ats": "greenhouse",
+   "board": "decibio",
+   "job_id": "8961111002"
+  },
+  "understudy_url": "https://understudy.live/apply/32497594?utm_source=ghlist&utm_medium=row"
+ },
+ {
+  "id": "greenhouse-gofasti-6270764004",
+  "company_name": "GoFasti",
+  "title": "1208 - .Net Developer",
+  "url": "https://careers.gofasti.com/job-application/6270764004?gh_jid=6270764004&utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Remote"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795564834,
+  "date_updated": 1795616909,
+  "category": "swe",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "Other",
+  "on_simplify": false,
+  "source": {
+   "ats": "greenhouse",
+   "board": "gofasti",
+   "job_id": "6270764004"
+  },
+  "understudy_url": "https://understudy.live/apply/32464254?utm_source=ghlist&utm_medium=row"
+ },
+ {
+  "id": "workable-weekday-1-fe232c4f67",
+  "company_name": "Weekday AI",
+  "title": "Remote AI Data Contributor",
+  "url": "https://apply.workable.com/j/FE232C4F67?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "United States"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795564800,
+  "date_updated": 1795616909,
+  "category": "data",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "Other",
+  "on_simplify": true,
+  "source": {
+   "ats": "workable",
+   "board": "weekday-1",
+   "job_id": "FE232C4F67"
+  },
+  "understudy_url": "https://understudy.live/apply/32552241?utm_source=ghlist&utm_medium=row"
+ },
+ {
+  "id": "greenhouse-nscaleoperationsukltd-5047137101",
+  "company_name": "Nscale",
+  "title": "Supply Chain Analyst, AI Sourcing",
+  "url": "https://job-boards.eu.greenhouse.io/nscaleoperationsukltd/jobs/5047137101?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "San Francisco",
+   "Seattle"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795562659,
+  "date_updated": 1795616909,
+  "category": "data",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "Other",
+  "on_simplify": false,
+  "source": {
+   "ats": "greenhouse",
+   "board": "nscaleoperationsukltd",
+   "job_id": "5047137101"
+  },
+  "understudy_url": "https://understudy.live/apply/32480581?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "external--9bf6d1ba-adef-4f74-9343-9e9d9dfba88e",
   "company_name": "American Council on Education",
   "title": "Associate – Data Insights and Policy Analysis",
@@ -10,7 +310,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795562177,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -26,33 +326,6 @@
   "understudy_url": ""
  },
  {
-  "id": "external--5c47b2c0-c332-4e95-8bfe-c85a279da736",
-  "company_name": "Consolidated Edison",
-  "title": "Associate – Research & Development",
-  "url": "https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/1000518?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "NYC"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795562159,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "5c47b2c0-c332-4e95-8bfe-c85a279da736"
-  },
-  "understudy_url": ""
- },
- {
   "id": "external--16c2d7a3-1fe5-4717-afa8-6f92a77428c4",
   "company_name": "Amazon",
   "title": "Front-End Engineer",
@@ -63,7 +336,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795561536,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -89,12 +362,14 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795560981,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
-  "degrees": [],
+  "degrees": [
+   "Bachelor's"
+  ],
   "sponsorship": "Other",
-  "on_simplify": false,
+  "on_simplify": true,
   "source": {
    "ats": "lever",
    "board": "veeva",
@@ -113,7 +388,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795557845,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -137,7 +412,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795557709,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -151,30 +426,28 @@
   "understudy_url": "https://understudy.live/apply/32420753?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "external--08ed91de-26c8-449f-a4b1-c48f2f815636",
-  "company_name": "Eide Bailly",
-  "title": "AI Engineer",
-  "url": "https://eidebailly.jibeapply.com/jobs/10092?icims=1&lang=en-us&utm_source=understudy&ref=understudy-list",
+  "id": "jibe-jobs.keysight.com-59478",
+  "company_name": "Keysight Technologies",
+  "title": "R&D BS / MS Electrical Engineer Full Time Power Electronics Hardware Design - Budd Lake, NJ",
+  "url": "https://jobs.keysight.com/jobs/59478?utm_source=understudy&ref=understudy-list",
   "locations": [
-   "Remote in USA"
+   "Budd Lake, New Jersey"
   ],
   "active": true,
   "is_visible": true,
-  "date_posted": 1795553700,
-  "date_updated": 1795567704,
-  "category": "data",
+  "date_posted": 1795556280,
+  "date_updated": 1795616909,
+  "category": "hardware",
   "terms": [],
-  "degrees": [
-   "Bachelor's"
-  ],
+  "degrees": [],
   "sponsorship": "Other",
-  "on_simplify": true,
+  "on_simplify": false,
   "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "08ed91de-26c8-449f-a4b1-c48f2f815636"
+   "ats": "jibe",
+   "board": "jobs.keysight.com",
+   "job_id": "59478"
   },
-  "understudy_url": ""
+  "understudy_url": "https://understudy.live/apply/32452314?utm_source=ghlist&utm_medium=row"
  },
  {
   "id": "eightfold-lockheedmartin-996478004473",
@@ -187,7 +460,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795552104,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -201,32 +474,6 @@
   "understudy_url": "https://understudy.live/apply/32359774?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "external--526d17a0-8473-48fb-99a3-4f3f2c7f740e",
-  "company_name": "CTG",
-  "title": "Lab Technician",
-  "url": "https://careers.ctg.com/jobs/19554?icims=1&lang=en-us&utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Morrisville, NC"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795551420,
-  "date_updated": 1795567704,
-  "category": "hardware",
-  "terms": [],
-  "degrees": [
-   "Associate's"
-  ],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "526d17a0-8473-48fb-99a3-4f3f2c7f740e"
-  },
-  "understudy_url": ""
- },
- {
   "id": "greenhouse-freedomconsulting-5308625007",
   "company_name": "Freedom Technology Solutions Group",
   "title": "Junior Software Engineer 817",
@@ -237,7 +484,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795551238,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -261,7 +508,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795550467,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -275,8 +522,8 @@
   "understudy_url": "https://understudy.live/apply/32349660?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "external--feab8bd7-d5d9-47f8-9192-0c9ccd70d7d5",
-  "company_name": "Rubrik",
+  "id": "greenhouse-rubrik-8314058",
+  "company_name": "Rubrik Job Board",
   "title": "Software Engineer - Data Protection",
   "url": "https://www.rubrik.com/company/careers/departments/job.8314058?gh_jid=8314058&utm_source=understudy&ref=understudy-list",
   "locations": [
@@ -285,7 +532,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795549078,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -294,11 +541,11 @@
   "sponsorship": "Other",
   "on_simplify": true,
   "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "feab8bd7-d5d9-47f8-9192-0c9ccd70d7d5"
+   "ats": "greenhouse",
+   "board": "rubrik",
+   "job_id": "8314058"
   },
-  "understudy_url": ""
+  "understudy_url": "https://understudy.live/apply/32355738?utm_source=ghlist&utm_medium=row"
  },
  {
   "id": "greenhouse-asm-5019841101",
@@ -311,7 +558,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795548841,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -327,7 +574,7 @@
  {
   "id": "greenhouse-wurljobs-4731759006",
   "company_name": "Wurl",
-  "title": "Software Engineer I - Remote",
+  "title": "Software Engineer I",
   "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4731759006?utm_source=understudy&ref=understudy-list",
   "locations": [
    "Remote - United States"
@@ -335,7 +582,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795548586,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -359,7 +606,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795548311,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -383,7 +630,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795543636,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -407,7 +654,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795542756,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -431,7 +678,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795542620,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -455,7 +702,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795542450,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -479,7 +726,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795542414,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -503,7 +750,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795541733,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -517,6 +764,30 @@
   "understudy_url": "https://understudy.live/apply/32303688?utm_source=ghlist&utm_medium=row"
  },
  {
+  "id": "icims-careers-bnh.icims.com-26055",
+  "company_name": "Beyond New Horizons",
+  "title": "Entry-Level ID&C Software Engineer",
+  "url": "https://careers-bnh.icims.com/jobs/26055/entry-level-id%26c-software-engineer/job?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Arnold AFB, TN, US"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795539480,
+  "date_updated": 1795616909,
+  "category": "swe",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "U.S. Citizenship is Required",
+  "on_simplify": false,
+  "source": {
+   "ats": "icims",
+   "board": "careers-bnh.icims.com",
+   "job_id": "26055"
+  },
+  "understudy_url": "https://understudy.live/apply/32502153?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "eightfold-lockheedmartin-996477429290",
   "company_name": "Lockheed Martin",
   "title": "Software Engineer Associate - Early Career",
@@ -528,7 +799,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795538911,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -552,7 +823,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795535948,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -576,7 +847,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795535686,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -602,7 +873,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795535683,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -628,7 +899,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795535683,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -653,7 +924,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795534652,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -679,7 +950,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795533636,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -703,7 +974,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795532943,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -729,7 +1000,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795532823,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -753,7 +1024,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795531380,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -777,7 +1048,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795531140,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -801,7 +1072,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795531036,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "quant",
   "terms": [],
   "degrees": [],
@@ -825,7 +1096,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795528800,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -839,6 +1110,30 @@
   "understudy_url": "https://understudy.live/apply/32349305?utm_source=ghlist&utm_medium=row"
  },
  {
+  "id": "oracle-jpmc.fa.oraclecloud.com|cx_1001-210803021",
+  "company_name": "JP Morgan Chase",
+  "title": "Software Engineer I-Java/Springboot/SQL",
+  "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Newark, DE, United States"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795521600,
+  "date_updated": 1795616909,
+  "category": "swe",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "Other",
+  "on_simplify": false,
+  "source": {
+   "ats": "oracle",
+   "board": "jpmc.fa.oraclecloud.com|CX_1001",
+   "job_id": "210803021"
+  },
+  "understudy_url": "https://understudy.live/apply/32154245?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "amazon-amazon-10612981",
   "company_name": "Amazon",
   "title": "Antenna & RF Engineer, Amazon Leo",
@@ -849,7 +1144,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795521600,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -873,7 +1168,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795521600,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -887,6 +1182,54 @@
   "understudy_url": "https://understudy.live/apply/32290664?utm_source=ghlist&utm_medium=row"
  },
  {
+  "id": "oracle-eofe.fa.us2.oraclecloud.com|cx_1001-84368",
+  "company_name": "BNY",
+  "title": "2027 BNY Analyst Program – Credit and Trading - (New York, NY)",
+  "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/84368?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "New York, NY, United States"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795521600,
+  "date_updated": 1795616909,
+  "category": "quant",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "Other",
+  "on_simplify": false,
+  "source": {
+   "ats": "oracle",
+   "board": "eofe.fa.us2.oraclecloud.com|CX_1001",
+   "job_id": "84368"
+  },
+  "understudy_url": "https://understudy.live/apply/32643230?utm_source=ghlist&utm_medium=row"
+ },
+ {
+  "id": "oracle-eofe.fa.us2.oraclecloud.com|cx_1001-84372",
+  "company_name": "BNY",
+  "title": "2027 BNY Analyst Program – Credit and Trading - (Pittsburgh, PA)",
+  "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/84372?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Pittsburgh, PA, United States"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795521600,
+  "date_updated": 1795616909,
+  "category": "quant",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "Other",
+  "on_simplify": false,
+  "source": {
+   "ats": "oracle",
+   "board": "eofe.fa.us2.oraclecloud.com|CX_1001",
+   "job_id": "84372"
+  },
+  "understudy_url": "https://understudy.live/apply/32643231?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "oracle-fa-exty-saasfaprod1.fa.ocs.oraclecloud.com|cx_1-120703",
   "company_name": "Howmet Aerospace",
   "title": "AI Engineer",
@@ -897,7 +1240,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795521600,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -921,7 +1264,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795521600,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -945,7 +1288,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795521600,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -959,30 +1302,6 @@
   "understudy_url": "https://understudy.live/apply/32218929?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "oracle-jpmc.fa.oraclecloud.com|cx_1001-210803021",
-  "company_name": "JP Morgan Chase",
-  "title": "Software Engineer I-Java/Springboot/SQL",
-  "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Newark, DE, United States"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795521600,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "oracle",
-   "board": "jpmc.fa.oraclecloud.com|CX_1001",
-   "job_id": "210803021"
-  },
-  "understudy_url": "https://understudy.live/apply/32154245?utm_source=ghlist&utm_medium=row"
- },
- {
   "id": "icims-careers-gdms.icims.com-81472",
   "company_name": "General Dynamics Mission Systems",
   "title": "Systems Engineer – Entry Level",
@@ -991,7 +1310,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795520340,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1013,7 +1332,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795514340,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1037,7 +1356,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795513380,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1061,7 +1380,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795506659,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "pm",
   "terms": [],
   "degrees": [],
@@ -1085,7 +1404,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795505668,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1099,6 +1418,31 @@
   "understudy_url": "https://understudy.live/apply/32077211?utm_source=ghlist&utm_medium=row"
  },
  {
+  "id": "jibe-se.jibeapply.com-141336",
+  "company_name": "Schneider Electric",
+  "title": "Engineer I, Software",
+  "url": "https://se.jibeapply.com/jobs/141336?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Chicago, Illinois",
+   "Westmont, Illinois"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795496400,
+  "date_updated": 1795616909,
+  "category": "swe",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "Other",
+  "on_simplify": false,
+  "source": {
+   "ats": "jibe",
+   "board": "se.jibeapply.com",
+   "job_id": "141336"
+  },
+  "understudy_url": "https://understudy.live/apply/32556508?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "eightfold-bostonscientific-563602813985296",
   "company_name": "Boston Scientific",
   "title": "Systems Test Engineer I - PCIG Systems",
@@ -1109,7 +1453,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795492132,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1133,7 +1477,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795489060,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -1159,7 +1503,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795485289,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -1187,7 +1531,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795479890,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -1204,15 +1548,15 @@
   "understudy_url": "https://understudy.live/apply/31937122?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "icims-careers-epeconsulting.icims.com-2399",
+  "id": "icims-careers-epeconsulting.icims.com-2028",
   "company_name": "Electric Power Engineers",
   "title": "Power Systems Engineer I",
-  "url": "https://careers-epeconsulting.icims.com/jobs/2399/power-systems-engineer-i/job?utm_source=understudy&ref=understudy-list",
+  "url": "https://careers-epeconsulting.icims.com/jobs/2028/power-systems-engineer-i/job?utm_source=understudy&ref=understudy-list",
   "locations": [],
   "active": true,
   "is_visible": true,
   "date_posted": 1795478556,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1221,9 +1565,9 @@
   "source": {
    "ats": "icims",
    "board": "careers-epeconsulting.icims.com",
-   "job_id": "2399"
+   "job_id": "2028"
   },
-  "understudy_url": "https://understudy.live/apply/31913102?utm_source=ghlist&utm_medium=row"
+  "understudy_url": "https://understudy.live/apply/31913154?utm_source=ghlist&utm_medium=row"
  },
  {
   "id": "icims-careers-epeconsulting.icims.com-2477",
@@ -1234,7 +1578,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795478556,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1248,30 +1592,6 @@
   "understudy_url": "https://understudy.live/apply/31913072?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "workable-thorlabs-fe2fda5c4a",
-  "company_name": "Thorlabs",
-  "title": "Photonics Solutions Engineer I",
-  "url": "https://apply.workable.com/j/FE2FDA5C4A?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Newton, New Jersey, United States"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795478400,
-  "date_updated": 1795567704,
-  "category": "hardware",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "U.S. Citizenship is Required",
-  "on_simplify": false,
-  "source": {
-   "ats": "workable",
-   "board": "thorlabs",
-   "job_id": "FE2FDA5C4A"
-  },
-  "understudy_url": "https://understudy.live/apply/32186704?utm_source=ghlist&utm_medium=row"
- },
- {
   "id": "workable-sigmadefense-daea691e19",
   "company_name": "Sigma Defense",
   "title": "1454 - RF Electrical Engineer",
@@ -1282,7 +1602,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795478400,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -1296,6 +1616,30 @@
   "understudy_url": "https://understudy.live/apply/32386632?utm_source=ghlist&utm_medium=row"
  },
  {
+  "id": "workable-thorlabs-fe2fda5c4a",
+  "company_name": "Thorlabs",
+  "title": "Photonics Solutions Engineer I",
+  "url": "https://apply.workable.com/j/FE2FDA5C4A?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Newton, New Jersey, United States"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795478400,
+  "date_updated": 1795616909,
+  "category": "hardware",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "U.S. Citizenship is Required",
+  "on_simplify": false,
+  "source": {
+   "ats": "workable",
+   "board": "thorlabs",
+   "job_id": "FE2FDA5C4A"
+  },
+  "understudy_url": "https://understudy.live/apply/32186704?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "external--a90ed36b-6768-4c6a-9eca-82b729cc55ac",
   "company_name": "Karman Industries",
   "title": "Embedded Software Engineer",
@@ -1306,7 +1650,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795478400,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -1332,7 +1676,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795478400,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -1348,6 +1692,33 @@
   "understudy_url": ""
  },
  {
+  "id": "external--2c8b5a58-c9ab-4efb-be82-8047d25e6570",
+  "company_name": "Beyond New Horizons",
+  "title": "ID&C Software Engineer",
+  "url": "https://careers-bnh.icims.com/jobs/26055/job?mobile=true&needsRedirect=false&utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Tullahoma, TN"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795478400,
+  "date_updated": 1795616909,
+  "category": "swe",
+  "terms": [],
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "on_simplify": true,
+  "source": {
+   "ats": "external",
+   "board": "",
+   "job_id": "2c8b5a58-c9ab-4efb-be82-8047d25e6570"
+  },
+  "understudy_url": ""
+ },
+ {
   "id": "external--69114fcd-d06a-428b-b407-6370b353d25a",
   "company_name": "Duke University",
   "title": "Analytics Engineer - Department of Pharmacy",
@@ -1358,7 +1729,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795477897,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -1384,7 +1755,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795477752,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -1410,7 +1781,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795477541,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -1434,7 +1805,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795477498,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1459,7 +1830,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795477464,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1483,7 +1854,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795477453,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -1507,7 +1878,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795475936,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -1533,7 +1904,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795475776,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1557,7 +1928,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795475774,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -1583,7 +1954,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795475678,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -1610,7 +1981,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795470954,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1634,7 +2005,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795469412,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1656,7 +2027,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795467760,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "quant",
   "terms": [],
   "degrees": [],
@@ -1680,7 +2051,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795464614,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1704,7 +2075,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795463214,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1728,7 +2099,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795462788,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1753,7 +2124,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795462417,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1777,7 +2148,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795462309,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -1801,7 +2172,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795461457,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -1825,7 +2196,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795460961,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1849,7 +2220,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795460741,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1874,7 +2245,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795459500,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -1893,12 +2264,12 @@
   "title": "Splunk Jr. Developer",
   "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4707033006?gh_jid=4707033006&utm_source=understudy&ref=understudy-list",
   "locations": [
-   "Washington, DC"
+   "Herndon, VA"
   ],
   "active": true,
   "is_visible": true,
   "date_posted": 1795457554,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -1922,7 +2293,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795456802,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -1950,7 +2321,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795456766,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -1978,7 +2349,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795456741,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2002,7 +2373,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795456730,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2026,7 +2397,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795456717,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -2053,7 +2424,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795455874,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2078,7 +2449,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795451169,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2102,7 +2473,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795450318,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -2128,7 +2499,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795449402,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2154,7 +2525,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795449272,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -2180,7 +2551,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795449026,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2204,7 +2575,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795447927,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -2230,7 +2601,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795447811,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -2256,7 +2627,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795447483,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -2278,7 +2649,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795445618,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2302,7 +2673,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795444134,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -2318,54 +2689,6 @@
   "understudy_url": "https://understudy.live/apply/31674601?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "oracle-eihu.fa.us8.oraclecloud.com|cx-2619293",
-  "company_name": "SAIC",
-  "title": "Junior Cybersecurity Specialist",
-  "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2619293?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Remote Work, AZ, United States"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795435200,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "oracle",
-   "board": "eihu.fa.us8.oraclecloud.com|CX",
-   "job_id": "2619293"
-  },
-  "understudy_url": "https://understudy.live/apply/31761676?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "oracle-icfcjb.fa.ocs.oraclecloud.com|aerospace-129800",
-  "company_name": "Honeywell Aerospace",
-  "title": "Electrical Engineer I",
-  "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/129800?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Torrance, CA, United States"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795435200,
-  "date_updated": 1795567704,
-  "category": "hardware",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "oracle",
-   "board": "icfcjb.fa.ocs.oraclecloud.com|Aerospace",
-   "job_id": "129800"
-  },
-  "understudy_url": "https://understudy.live/apply/31749467?utm_source=ghlist&utm_medium=row"
- },
- {
   "id": "oracle-ejov.fa.ca2.oraclecloud.com|cx-29509",
   "company_name": "GHD",
   "title": "Graduate Developer",
@@ -2376,7 +2699,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795435200,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2390,6 +2713,30 @@
   "understudy_url": "https://understudy.live/apply/31796214?utm_source=ghlist&utm_medium=row"
  },
  {
+  "id": "oracle-icfcjb.fa.ocs.oraclecloud.com|aerospace-129800",
+  "company_name": "Honeywell Aerospace",
+  "title": "Electrical Engineer I",
+  "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/129800?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Torrance, CA, United States"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795435200,
+  "date_updated": 1795616909,
+  "category": "hardware",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "Other",
+  "on_simplify": false,
+  "source": {
+   "ats": "oracle",
+   "board": "icfcjb.fa.ocs.oraclecloud.com|Aerospace",
+   "job_id": "129800"
+  },
+  "understudy_url": "https://understudy.live/apply/31749467?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "icims-careers-gdms.icims.com-83484",
   "company_name": "General Dynamics Mission Systems",
   "title": "CWL Systems Engineer – Entry Level",
@@ -2398,7 +2745,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795425960,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2423,7 +2770,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795412325,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -2447,7 +2794,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795392000,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2471,7 +2818,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795392000,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2495,7 +2842,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795392000,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -2523,7 +2870,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795392000,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -2549,7 +2896,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795392000,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -2575,7 +2922,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795392000,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -2603,7 +2950,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795389910,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2627,7 +2974,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795389001,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "pm",
   "terms": [],
   "degrees": [],
@@ -2651,7 +2998,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795374164,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2675,7 +3022,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795310922,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2699,7 +3046,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795285210,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -2725,7 +3072,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795285210,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -2751,7 +3098,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795268397,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -2778,7 +3125,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795259683,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2802,7 +3149,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795245517,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -2828,7 +3175,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795228676,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -2852,7 +3199,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795228554,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -2879,7 +3226,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795227280,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2903,7 +3250,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795226790,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -2927,7 +3274,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795223351,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -2951,7 +3298,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795223349,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -2977,7 +3324,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795219267,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -3001,7 +3348,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795219217,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -3027,7 +3374,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795219150,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -3054,7 +3401,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795219120,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -3080,7 +3427,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795219109,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "pm",
   "terms": [],
   "degrees": [
@@ -3106,7 +3453,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795219058,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -3132,7 +3479,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795219056,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -3158,7 +3505,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795219054,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -3184,7 +3531,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795219053,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -3210,7 +3557,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795219053,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -3234,7 +3581,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795219052,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -3258,7 +3605,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795218971,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -3284,7 +3631,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795218744,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -3310,7 +3657,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795218634,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -3336,7 +3683,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795218553,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -3362,7 +3709,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795218473,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -3386,7 +3733,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795218413,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -3413,7 +3760,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795218401,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -3440,7 +3787,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795218155,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -3466,7 +3813,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795217974,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -3493,7 +3840,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795217973,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -3518,7 +3865,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795217973,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -3534,32 +3881,6 @@
   "understudy_url": ""
  },
  {
-  "id": "external--90c98689-b6d9-4277-80b6-6d8d648b6546",
-  "company_name": "Wellabe",
-  "title": "Software Engineer 1/2/3",
-  "url": "https://recruiting.ultipro.com/ame1065/JobBoard/cdfdf806-e3aa-dfb4-4c6e-c7c656217b40/OpportunityDetail?opportunityId=2bb4b550-39c1-4e1c-9123-39b08c6f0fd7&utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Des Moines, IA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795217892,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "90c98689-b6d9-4277-80b6-6d8d648b6546"
-  },
-  "understudy_url": ""
- },
- {
   "id": "jibe-careers.rivian.com-37510",
   "company_name": "Rivian",
   "title": "Early Career - Vehicle Features & Systems Engineer",
@@ -3570,7 +3891,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795217880,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -3594,7 +3915,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795217778,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -3620,7 +3941,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795217619,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -3647,7 +3968,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795217554,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -3673,7 +3994,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795217534,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -3700,7 +4021,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795217534,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -3727,7 +4048,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795217533,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -3754,7 +4075,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795217528,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -3780,7 +4101,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795217511,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -3806,7 +4127,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795217490,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -3832,7 +4153,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795217488,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -3858,7 +4179,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795217488,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -3884,7 +4205,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795217362,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -3910,7 +4231,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795216945,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -3936,7 +4257,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795216942,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -3962,7 +4283,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795216890,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -3988,7 +4309,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795216700,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -4015,7 +4336,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795216617,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -4042,7 +4363,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795216421,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -4068,7 +4389,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795216393,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -4094,7 +4415,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795216315,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -4122,7 +4443,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795216305,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -4149,7 +4470,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795216277,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -4175,7 +4496,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795216194,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -4203,7 +4524,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795216190,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -4230,7 +4551,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795215924,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -4257,7 +4578,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795215856,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -4283,7 +4604,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795213343,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -4307,7 +4628,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795212404,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -4340,7 +4661,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795212211,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "pm",
   "terms": [],
   "degrees": [
@@ -4366,7 +4687,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795212139,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -4390,7 +4711,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795211820,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -4414,7 +4735,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795210500,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -4438,7 +4759,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795209420,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -4460,7 +4781,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795208668,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -4484,7 +4805,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795208627,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -4510,7 +4831,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795207660,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -4534,7 +4855,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795205314,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -4558,7 +4879,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795202929,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "quant",
   "terms": [],
   "degrees": [],
@@ -4582,7 +4903,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795201620,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -4606,7 +4927,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795200323,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -4630,7 +4951,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795197345,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -4657,7 +4978,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795196525,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -4681,7 +5002,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795196320,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -4708,7 +5029,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795196231,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -4736,7 +5057,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795196112,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "pm",
   "terms": [],
   "degrees": [
@@ -4762,7 +5083,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795194477,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -4788,7 +5109,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795194303,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -4814,7 +5135,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795194223,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -4840,7 +5161,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795194169,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -4866,7 +5187,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795193010,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -4890,7 +5211,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795192951,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -4914,7 +5235,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795192806,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -4939,7 +5260,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795191420,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -4963,7 +5284,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795190360,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -4987,7 +5308,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795190328,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -5013,7 +5334,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795190327,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -5039,7 +5360,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795188075,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -5063,7 +5384,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795187876,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -5087,7 +5408,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795187730,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -5111,7 +5432,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795184923,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -5135,7 +5456,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795184750,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -5159,7 +5480,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795176000,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "quant",
   "terms": [],
   "degrees": [],
@@ -5183,7 +5504,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795176000,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -5207,7 +5528,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795174334,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -5231,7 +5552,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795173047,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -5257,7 +5578,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795171655,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -5283,7 +5604,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795171654,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -5309,7 +5630,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795161279,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -5333,7 +5654,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795160843,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -5359,7 +5680,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795160618,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -5385,7 +5706,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795159699,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -5412,7 +5733,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795159699,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -5438,7 +5759,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795159698,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -5464,7 +5785,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795159688,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -5491,7 +5812,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795159684,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -5518,7 +5839,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795159655,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -5545,7 +5866,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795159652,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -5570,7 +5891,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795159460,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -5596,7 +5917,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795159138,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -5623,7 +5944,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795158577,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -5649,7 +5970,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795158267,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -5675,7 +5996,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795141028,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -5701,7 +6022,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795140321,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -5725,7 +6046,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795140305,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -5749,7 +6070,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795133219,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -5766,18 +6087,18 @@
   "understudy_url": "https://understudy.live/apply/30737554?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "workday-latticesemi|latticesemiconductorscareers-r-103309",
-  "company_name": "Lattice Semiconductor",
-  "title": "Junior BMC Firmware Engineer",
-  "url": "https://latticesemi.wd5.myworkdayjobs.com/latticesemiconductorscareers/job/Duluth-Georgia/Junior-BMC-Firmware-Engineer_R-103309?utm_source=understudy&ref=understudy-list",
+  "id": "workday-eisneramper|eisneramperearlycareers-req-9694",
+  "company_name": "EisnerAmper",
+  "title": "Outsourcing IT Staff 1",
+  "url": "https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Iselin/XMLNAME-2026-Outsourcing-IT-Staff-I_Req-9694?utm_source=understudy&ref=understudy-list",
   "locations": [
-   "Duluth, GA"
+   "Iselin, Woodbridge Township, NJ"
   ],
   "active": true,
   "is_visible": true,
   "date_posted": 1795132800,
-  "date_updated": 1795567704,
-  "category": "hardware",
+  "date_updated": 1795616909,
+  "category": "swe",
   "terms": [],
   "degrees": [
    "Bachelor's",
@@ -5787,10 +6108,10 @@
   "on_simplify": true,
   "source": {
    "ats": "workday",
-   "board": "latticesemi|latticesemiconductorscareers",
-   "job_id": "R-103309"
+   "board": "eisneramper|EisnerAmperEarlyCareers",
+   "job_id": "Req-9694"
   },
-  "understudy_url": "https://understudy.live/apply/31568032?utm_source=ghlist&utm_medium=row"
+  "understudy_url": "https://understudy.live/apply/31330654?utm_source=ghlist&utm_medium=row"
  },
  {
   "id": "workable-neurohire-dot-a-i-d9a059df68",
@@ -5803,7 +6124,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795132800,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -5829,7 +6150,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795132800,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -5843,30 +6164,31 @@
   "understudy_url": "https://understudy.live/apply/31084286?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "workday-toyota|tmna-10340846",
-  "company_name": "Toyota North America",
-  "title": "Software Engineer",
-  "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10340846?utm_source=understudy&ref=understudy-list",
+  "id": "workday-latticesemi|latticesemiconductorscareers-r-103309",
+  "company_name": "Lattice Semiconductor",
+  "title": "Junior BMC Firmware Engineer",
+  "url": "https://latticesemi.wd5.myworkdayjobs.com/latticesemiconductorscareers/job/Duluth-Georgia/Junior-BMC-Firmware-Engineer_R-103309?utm_source=understudy&ref=understudy-list",
   "locations": [
-   "Plano, Texas"
+   "Duluth, GA"
   ],
   "active": true,
   "is_visible": true,
   "date_posted": 1795132800,
-  "date_updated": 1795567704,
-  "category": "swe",
+  "date_updated": 1795616909,
+  "category": "hardware",
   "terms": [],
   "degrees": [
-   "Bachelor's"
+   "Bachelor's",
+   "Master's"
   ],
   "sponsorship": "Other",
   "on_simplify": true,
   "source": {
    "ats": "workday",
-   "board": "toyota|tmna",
-   "job_id": "10340846"
+   "board": "latticesemi|latticesemiconductorscareers",
+   "job_id": "R-103309"
   },
-  "understudy_url": "https://understudy.live/apply/31330656?utm_source=ghlist&utm_medium=row"
+  "understudy_url": "https://understudy.live/apply/31568032?utm_source=ghlist&utm_medium=row"
  },
  {
   "id": "workday-ercot|ercot_careers-r2562-1",
@@ -5879,7 +6201,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795132800,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "quant",
   "terms": [],
   "degrees": [
@@ -5895,31 +6217,30 @@
   "understudy_url": "https://understudy.live/apply/31728183?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "workday-eisneramper|eisneramperearlycareers-req-9694",
-  "company_name": "EisnerAmper",
-  "title": "Outsourcing IT Staff 1",
-  "url": "https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Iselin/XMLNAME-2026-Outsourcing-IT-Staff-I_Req-9694?utm_source=understudy&ref=understudy-list",
+  "id": "workday-toyota|tmna-10340846",
+  "company_name": "Toyota North America",
+  "title": "Software Engineer",
+  "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10340846?utm_source=understudy&ref=understudy-list",
   "locations": [
-   "Iselin, Woodbridge Township, NJ"
+   "Plano, Texas"
   ],
   "active": true,
   "is_visible": true,
   "date_posted": 1795132800,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
-   "Bachelor's",
-   "Master's"
+   "Bachelor's"
   ],
   "sponsorship": "Other",
   "on_simplify": true,
   "source": {
    "ats": "workday",
-   "board": "eisneramper|EisnerAmperEarlyCareers",
-   "job_id": "Req-9694"
+   "board": "toyota|tmna",
+   "job_id": "10340846"
   },
-  "understudy_url": "https://understudy.live/apply/31330654?utm_source=ghlist&utm_medium=row"
+  "understudy_url": "https://understudy.live/apply/31330656?utm_source=ghlist&utm_medium=row"
  },
  {
   "id": "external--7868367c-848d-462e-b40d-62be3816c7d3",
@@ -5932,7 +6253,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795132800,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -5959,7 +6280,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795132800,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -5985,7 +6306,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795132800,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -6009,7 +6330,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795132800,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -6035,7 +6356,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795132800,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "pm",
   "terms": [],
   "degrees": [
@@ -6061,7 +6382,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795132800,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "pm",
   "terms": [],
   "degrees": [
@@ -6089,7 +6410,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795132800,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "pm",
   "terms": [],
   "degrees": [
@@ -6115,7 +6436,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795132800,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -6127,6 +6448,32 @@
    "ats": "external",
    "board": "",
    "job_id": "08996931-0906-4f59-8850-7cebf5991d70"
+  },
+  "understudy_url": ""
+ },
+ {
+  "id": "external--94a655c9-6eae-422b-b1d9-3c513c0b99d4",
+  "company_name": "Endeavor Air",
+  "title": "Data Analyst - Operations Analysis & Performance",
+  "url": "https://careers-endeavorair.icims.com/jobs/5807/job?mobile=true&needsRedirect=false&utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Minneapolis, MN"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795132800,
+  "date_updated": 1795616909,
+  "category": "data",
+  "terms": [],
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "on_simplify": true,
+  "source": {
+   "ats": "external",
+   "board": "",
+   "job_id": "94a655c9-6eae-422b-b1d9-3c513c0b99d4"
   },
   "understudy_url": ""
  },
@@ -6143,7 +6490,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795132582,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -6170,7 +6517,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795132287,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -6196,7 +6543,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795131840,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -6222,7 +6569,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795131686,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -6248,7 +6595,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795130632,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -6264,32 +6611,6 @@
   "understudy_url": ""
  },
  {
-  "id": "external--b77f486a-2b51-4a28-aa1a-586e0eee73a6",
-  "company_name": "United Launch Alliance",
-  "title": "Ground Software Avionics & Infrastructure Engineer 1",
-  "url": "https://jobs.ulalaunch.com/job/Centennial-Ground-Software-(GSW)-Avionics-&-Infrastructure-Engineer-1-CO-80112/1452361700/?ats=successfactors&utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Centennial, CO"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795130593,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "b77f486a-2b51-4a28-aa1a-586e0eee73a6"
-  },
-  "understudy_url": ""
- },
- {
   "id": "external--15746f23-ad9c-4dc5-987a-a9d633549696",
   "company_name": "TechInsights",
   "title": "Image Processing Technician",
@@ -6300,7 +6621,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795130420,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -6326,7 +6647,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795130310,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -6352,7 +6673,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795129964,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -6376,7 +6697,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795129682,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -6402,7 +6723,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795129561,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -6428,7 +6749,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795129451,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -6452,7 +6773,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795124629,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -6476,7 +6797,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795123989,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -6500,7 +6821,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795123263,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -6526,7 +6847,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795123020,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -6550,7 +6871,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795122750,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -6574,7 +6895,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795120270,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -6598,7 +6919,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795119163,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -6622,7 +6943,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795116481,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -6646,7 +6967,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795113420,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -6670,7 +6991,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795112281,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -6694,7 +7015,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795111057,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -6718,7 +7039,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795109998,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -6740,7 +7061,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795109280,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -6764,7 +7085,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795108733,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -6789,7 +7110,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795107089,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -6813,7 +7134,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795107005,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -6837,7 +7158,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795106950,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -6861,7 +7182,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795106362,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -6885,7 +7206,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795105964,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -6912,7 +7233,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795105811,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -6936,7 +7257,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795105363,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -6960,7 +7281,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795103676,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -6987,7 +7308,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795103606,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -7013,7 +7334,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795101347,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -7040,7 +7361,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795100998,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -7064,7 +7385,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795099044,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -7086,7 +7407,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795098480,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -7110,7 +7431,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795098009,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -7136,7 +7457,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795097760,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -7160,7 +7481,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795097700,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -7184,7 +7505,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795096440,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -7198,30 +7519,6 @@
   "understudy_url": "https://understudy.live/apply/30743100?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "oracle-egug.fa.us2.oraclecloud.com|cx_1-26016885",
-  "company_name": "American Express",
-  "title": "Analyst - Product Management",
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016885?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "New York, NY, United States"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795089600,
-  "date_updated": 1795567704,
-  "category": "pm",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Does Not Offer Sponsorship",
-  "on_simplify": false,
-  "source": {
-   "ats": "oracle",
-   "board": "egug.fa.us2.oraclecloud.com|CX_1",
-   "job_id": "26016885"
-  },
-  "understudy_url": "https://understudy.live/apply/30536880?utm_source=ghlist&utm_medium=row"
- },
- {
   "id": "amazon-amazon-10607758",
   "company_name": "Amazon",
   "title": "Software Engineer I, Commerce",
@@ -7232,7 +7529,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795089600,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -7256,7 +7553,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795089600,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -7280,7 +7577,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795089600,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -7294,30 +7591,6 @@
   "understudy_url": "https://understudy.live/apply/30880902?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "amazon-amazon-10609574",
-  "company_name": "Amazon",
-  "title": "Network Infrastructure Engineer I, Amazon Dedicated Cloud (NIDD)",
-  "url": "https://www.amazon.jobs/en/jobs/10609574/network-infrastructure-engineer-i-amazon-dedicated-cloud-nidd?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "New Albany, Ohio, USA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795089600,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "U.S. Citizenship is Required",
-  "on_simplify": false,
-  "source": {
-   "ats": "amazon",
-   "board": "amazon",
-   "job_id": "10609574"
-  },
-  "understudy_url": "https://understudy.live/apply/30591852?utm_source=ghlist&utm_medium=row"
- },
- {
   "id": "oracle-eofe.fa.us2.oraclecloud.com|cx_1001-83973",
   "company_name": "BNY",
   "title": "Junior FX Trader",
@@ -7328,7 +7601,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795089600,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "quant",
   "terms": [],
   "degrees": [],
@@ -7342,6 +7615,54 @@
   "understudy_url": "https://understudy.live/apply/30574984?utm_source=ghlist&utm_medium=row"
  },
  {
+  "id": "oracle-egug.fa.us2.oraclecloud.com|cx_1-26016885",
+  "company_name": "American Express",
+  "title": "Analyst - Product Management",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016885?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "New York, NY, United States"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795089600,
+  "date_updated": 1795616909,
+  "category": "pm",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "Does Not Offer Sponsorship",
+  "on_simplify": false,
+  "source": {
+   "ats": "oracle",
+   "board": "egug.fa.us2.oraclecloud.com|CX_1",
+   "job_id": "26016885"
+  },
+  "understudy_url": "https://understudy.live/apply/30536880?utm_source=ghlist&utm_medium=row"
+ },
+ {
+  "id": "amazon-amazon-10609574",
+  "company_name": "Amazon",
+  "title": "Network Infrastructure Engineer I, Amazon Dedicated Cloud (NIDD)",
+  "url": "https://www.amazon.jobs/en/jobs/10609574/network-infrastructure-engineer-i-amazon-dedicated-cloud-nidd?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "New Albany, Ohio, USA"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795089600,
+  "date_updated": 1795616909,
+  "category": "swe",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "U.S. Citizenship is Required",
+  "on_simplify": false,
+  "source": {
+   "ats": "amazon",
+   "board": "amazon",
+   "job_id": "10609574"
+  },
+  "understudy_url": "https://understudy.live/apply/30591852?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "oracle-fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com|nfcu-31739",
   "company_name": "Navy Federal",
   "title": "API Systems Engineer",
@@ -7352,7 +7673,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795089600,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -7376,7 +7697,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795079700,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -7400,7 +7721,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795051931,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -7424,7 +7745,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795050448,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -7448,7 +7769,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795050408,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -7470,7 +7791,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795048143,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -7492,7 +7813,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795048143,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -7516,7 +7837,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795047540,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -7530,6 +7851,32 @@
   "understudy_url": "https://understudy.live/apply/30320481?utm_source=ghlist&utm_medium=row"
  },
  {
+  "id": "workday-specialized|specialized_external_career_site-r0012117",
+  "company_name": "Specialized",
+  "title": "Early Career Data Engineer",
+  "url": "https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Data-Engineer_R0012117?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Morgan Hill, CA"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795046400,
+  "date_updated": 1795616909,
+  "category": "data",
+  "terms": [],
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "on_simplify": true,
+  "source": {
+   "ats": "workday",
+   "board": "specialized|Specialized_External_Career_Site",
+   "job_id": "R0012117"
+  },
+  "understudy_url": "https://understudy.live/apply/32523999?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "eightfold-qualcomm-446722221279",
   "company_name": "Qualcomm",
   "title": "NoC Interconnect Design Engineer and Architect",
@@ -7540,7 +7887,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795046400,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -7557,6 +7904,82 @@
   "understudy_url": "https://understudy.live/apply/30563818?utm_source=ghlist&utm_medium=row"
  },
  {
+  "id": "workday-wmg|wmgus-r-028700",
+  "company_name": "WMG",
+  "title": "Analyst, Data Analytics",
+  "url": "https://wmg.wd1.myworkdayjobs.com/WMGUS/job/USA---Los-Angeles---777-S-Santa-Fe-Ave/Analyst--Automation_R-028700?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "LA"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795046400,
+  "date_updated": 1795616909,
+  "category": "data",
+  "terms": [],
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "on_simplify": true,
+  "source": {
+   "ats": "workday",
+   "board": "wmg|wmgus",
+   "job_id": "R-028700"
+  },
+  "understudy_url": "https://understudy.live/apply/31436164?utm_source=ghlist&utm_medium=row"
+ },
+ {
+  "id": "workday-specialized|specialized_external_career_site-r0012128",
+  "company_name": "Specialized",
+  "title": "Early Career Equipment Product & Launch Manager",
+  "url": "https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Equipment-Product---Launch-Manager_R0012128?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Morgan Hill, CA"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795046400,
+  "date_updated": 1795616909,
+  "category": "pm",
+  "terms": [],
+  "degrees": [],
+  "sponsorship": "Other",
+  "on_simplify": true,
+  "source": {
+   "ats": "workday",
+   "board": "specialized|Specialized_External_Career_Site",
+   "job_id": "R0012128"
+  },
+  "understudy_url": "https://understudy.live/apply/32523998?utm_source=ghlist&utm_medium=row"
+ },
+ {
+  "id": "workable-neurohire-dot-a-i-59974a3466",
+  "company_name": "neurohire.ai",
+  "title": "Forward Deployed Engineer",
+  "url": "https://apply.workable.com/j/59974A3466?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "United States"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795046400,
+  "date_updated": 1795616909,
+  "category": "swe",
+  "terms": [],
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "on_simplify": true,
+  "source": {
+   "ats": "workable",
+   "board": "neurohire-dot-a-i",
+   "job_id": "59974A3466"
+  },
+  "understudy_url": "https://understudy.live/apply/30698123?utm_source=ghlist&utm_medium=row"
+ },
+ {
   "id": "eightfold-qualcomm-446722230518",
   "company_name": "Qualcomm",
   "title": "DSP Applications Software Engineer",
@@ -7567,7 +7990,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795046400,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -7584,108 +8007,6 @@
   "understudy_url": "https://understudy.live/apply/30841190?utm_source=ghlist&utm_medium=row"
  },
  {
-  "id": "workday-wmg|wmgus-r-028700",
-  "company_name": "WMG",
-  "title": "Analyst, Data Analytics",
-  "url": "https://wmg.wd1.myworkdayjobs.com/WMGUS/job/USA---Los-Angeles---777-S-Santa-Fe-Ave/Analyst--Automation_R-028700?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "LA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795046400,
-  "date_updated": 1795567704,
-  "category": "data",
-  "terms": [],
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "workday",
-   "board": "wmg|wmgus",
-   "job_id": "R-028700"
-  },
-  "understudy_url": "https://understudy.live/apply/31436164?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workable-neurohire-dot-a-i-59974a3466",
-  "company_name": "neurohire.ai",
-  "title": "Forward Deployed Engineer",
-  "url": "https://apply.workable.com/j/59974A3466?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "United States"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795046400,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "workable",
-   "board": "neurohire-dot-a-i",
-   "job_id": "59974A3466"
-  },
-  "understudy_url": "https://understudy.live/apply/30698123?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-specialized|specialized_external_career_site-r0012117",
-  "company_name": "Specialized",
-  "title": "Early Career Data Engineer",
-  "url": "https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Data-Engineer_R0012117?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Morgan Hill, CA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795046400,
-  "date_updated": 1795567704,
-  "category": "data",
-  "terms": [],
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "workday",
-   "board": "specialized|specialized_external_career_site",
-   "job_id": "R0012117"
-  },
-  "understudy_url": "https://understudy.live/apply/31445488?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-specialized|specialized_external_career_site-r0012128",
-  "company_name": "Specialized",
-  "title": "Early Career Equipment Product & Launch Manager",
-  "url": "https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Equipment-Product---Launch-Manager_R0012128?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Morgan Hill, CA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795046400,
-  "date_updated": 1795567704,
-  "category": "pm",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "workday",
-   "board": "specialized|specialized_external_career_site",
-   "job_id": "R0012128"
-  },
-  "understudy_url": "https://understudy.live/apply/31445487?utm_source=ghlist&utm_medium=row"
- },
- {
   "id": "workday-thrivent|external-req-49083",
   "company_name": "Thrivent",
   "title": "Associate Investment Data Integrity Analyst",
@@ -7696,7 +8017,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795046400,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -7722,7 +8043,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795046400,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -7746,7 +8067,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795046400,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -7772,7 +8093,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795045863,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -7798,7 +8119,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795045586,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -7824,7 +8145,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795044885,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -7852,7 +8173,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795044843,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -7879,7 +8200,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795043772,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -7905,7 +8226,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795043364,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -7929,7 +8250,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795037516,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -7953,7 +8274,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795036868,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [
@@ -7980,7 +8301,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795036680,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -8004,7 +8325,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795035444,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -8030,7 +8351,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795034881,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -8054,7 +8375,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795032600,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -8078,7 +8399,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795031454,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -8102,7 +8423,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795030974,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -8129,7 +8450,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795030741,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "data",
   "terms": [],
   "degrees": [],
@@ -8153,7 +8474,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795025916,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [],
@@ -8177,7 +8498,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795024254,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -8201,7 +8522,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795023029,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -8225,7 +8546,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795022471,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -8249,7 +8570,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795021460,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -8275,7 +8596,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795019759,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -8299,7 +8620,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795018636,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -8323,7 +8644,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795017420,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -8348,7 +8669,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795017151,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [],
@@ -8372,7 +8693,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795016904,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "swe",
   "terms": [],
   "degrees": [
@@ -8388,6 +8709,58 @@
   "understudy_url": ""
  },
  {
+  "id": "external--3f41f4ba-396e-475d-9a5c-3a7ee8e5470f",
+  "company_name": "Cummins",
+  "title": "Electronic Systems Engineer - Software",
+  "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440078?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Galesburg, MI"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795015832,
+  "date_updated": 1795616909,
+  "category": "swe",
+  "terms": [],
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "on_simplify": true,
+  "source": {
+   "ats": "external",
+   "board": "",
+   "job_id": "3f41f4ba-396e-475d-9a5c-3a7ee8e5470f"
+  },
+  "understudy_url": ""
+ },
+ {
+  "id": "external--6613bded-9926-49a7-bc7f-60a11f1a05ee",
+  "company_name": "Berkshire Hathaway Energy",
+  "title": "Software Engineer - Bhepg",
+  "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006023?utm_source=understudy&ref=understudy-list",
+  "locations": [
+   "Omaha, NE"
+  ],
+  "active": true,
+  "is_visible": true,
+  "date_posted": 1795014388,
+  "date_updated": 1795616909,
+  "category": "swe",
+  "terms": [],
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "on_simplify": true,
+  "source": {
+   "ats": "external",
+   "board": "",
+   "job_id": "6613bded-9926-49a7-bc7f-60a11f1a05ee"
+  },
+  "understudy_url": ""
+ },
+ {
   "id": "smartrecruiters-keenfinity-744000162320679",
   "company_name": "Keenfinity",
   "title": "Engineering Technician",
@@ -8398,7 +8771,7 @@
   "active": true,
   "is_visible": true,
   "date_posted": 1795013599,
-  "date_updated": 1795567704,
+  "date_updated": 1795616909,
   "category": "hardware",
   "terms": [],
   "degrees": [
@@ -8412,773 +8785,5 @@
    "job_id": "744000162320679"
   },
   "understudy_url": "https://understudy.live/apply/30065788?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "greenhouse-twilio-8385593",
-  "company_name": "Twilio",
-  "title": "Software Engineer - Platform Engineering",
-  "url": "https://job-boards.greenhouse.io/twilio/jobs/8385593?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Remote - US"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795012968,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "greenhouse",
-   "board": "twilio",
-   "job_id": "8385593"
-  },
-  "understudy_url": "https://understudy.live/apply/30071691?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "jibe-careers.akima.com-28020",
-  "company_name": "Akima",
-  "title": "Junior SharePoint and Power Platform Developer",
-  "url": "https://careers.akima.com/jobs/28020?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Herndon, Virginia"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795011240,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "jibe",
-   "board": "careers.akima.com",
-   "job_id": "28020"
-  },
-  "understudy_url": "https://understudy.live/apply/30134102?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "jibe-careers.kimley-horn.com-28422",
-  "company_name": "Kimley-Horn",
-  "title": "Entry Level Electrical Engineer- Water/Wastewater",
-  "url": "https://careers.kimley-horn.com/jobs/28422?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Akron, Ohio"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795009620,
-  "date_updated": 1795567704,
-  "category": "hardware",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "jibe",
-   "board": "careers.kimley-horn.com",
-   "job_id": "28422"
-  },
-  "understudy_url": "https://understudy.live/apply/30182744?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "eightfold-lockheedmartin-996477878873",
-  "company_name": "Lockheed Martin",
-  "title": "Systems Integration/Test Engineer Asc - E1",
-  "url": "https://lockheedmartin.eightfold.ai/careers/job/996477878873?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Camden, AR, US"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795007754,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "U.S. Citizenship is Required",
-  "on_simplify": false,
-  "source": {
-   "ats": "eightfold",
-   "board": "lockheedmartin",
-   "job_id": "996477878873"
-  },
-  "understudy_url": "https://understudy.live/apply/30037265?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "oracle-ejko.fa.us2.oraclecloud.com|cx_3-15067",
-  "company_name": "Blue Cross Blue Shield of Michigan",
-  "title": "Data Science Analyst I",
-  "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15067?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Detroit, MI, United States"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795003200,
-  "date_updated": 1795567704,
-  "category": "data",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "oracle",
-   "board": "ejko.fa.us2.oraclecloud.com|CX_3",
-   "job_id": "15067"
-  },
-  "understudy_url": "https://understudy.live/apply/30142602?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "amazon-amazon-10608848",
-  "company_name": "Amazon",
-  "title": "Software Engineer I",
-  "url": "https://www.amazon.jobs/en/jobs/10608848/software-engineer-i?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "San Francisco, California, USA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795003200,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "amazon",
-   "board": "amazon",
-   "job_id": "10608848"
-  },
-  "understudy_url": "https://understudy.live/apply/30228076?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "oracle-fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|cx_1-2440078",
-  "company_name": "Cummins",
-  "title": "EATON - Electronic Systems Engineer - Software",
-  "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440078?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Galesburg, MI, United States"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795003200,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "oracle",
-   "board": "fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|CX_1",
-   "job_id": "2440078"
-  },
-  "understudy_url": "https://understudy.live/apply/30063916?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "amazon-amazon-10608212",
-  "company_name": "Amazon",
-  "title": "Security Engineer I, Security Incident Response Team (SIRT)",
-  "url": "https://www.amazon.jobs/en/jobs/10608212/security-engineer-i-security-incident-response-team-sirt?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Arlington, Virginia, USA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795003200,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "amazon",
-   "board": "amazon",
-   "job_id": "10608212"
-  },
-  "understudy_url": "https://understudy.live/apply/30083544?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "amazon-amazon-10608157",
-  "company_name": "Amazon",
-  "title": "Network Infrastructure Engineer I, Amazon Dedicated Cloud (NIDD)",
-  "url": "https://www.amazon.jobs/en/jobs/10608157/network-infrastructure-engineer-i-amazon-dedicated-cloud-nidd?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Culpeper, Virginia, USA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1795003200,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "U.S. Citizenship is Required",
-  "on_simplify": false,
-  "source": {
-   "ats": "amazon",
-   "board": "amazon",
-   "job_id": "10608157"
-  },
-  "understudy_url": "https://understudy.live/apply/30083547?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "external--62d93e6f-71a3-48d6-b3e2-5ac426543920",
-  "company_name": "Ocado Group",
-  "title": "Hardware Engineering Graduate - Robotics & Automation",
-  "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5036245101&gh_jid=5036245101&utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Hatfield, UK"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794992954,
-  "date_updated": 1795567704,
-  "category": "hardware",
-  "terms": [],
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "62d93e6f-71a3-48d6-b3e2-5ac426543920"
-  },
-  "understudy_url": ""
- },
- {
-  "id": "lever-jobgether-7d7aae14-b608-463f-82c1-8eda7918b8cd",
-  "company_name": "Jobgether",
-  "title": "Junior Security Engineer",
-  "url": "https://jobs.lever.co/jobgether/7d7aae14-b608-463f-82c1-8eda7918b8cd?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "US"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794989981,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "lever",
-   "board": "jobgether",
-   "job_id": "7d7aae14-b608-463f-82c1-8eda7918b8cd"
-  },
-  "understudy_url": "https://understudy.live/apply/29965108?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "external--de573e13-9b7e-457d-861a-dfc661eb9976",
-  "company_name": "Elutions",
-  "title": "Domain Engineer",
-  "url": "https://elutions.bamboohr.com/careers/184/?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "London, UK"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794988417,
-  "date_updated": 1795567704,
-  "category": "data",
-  "terms": [],
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "de573e13-9b7e-457d-861a-dfc661eb9976"
-  },
-  "understudy_url": ""
- },
- {
-  "id": "external--4aee94bd-d68e-4a74-8abf-ff47974b009f",
-  "company_name": "Elutions",
-  "title": "Domain Engineer",
-  "url": "https://elutions.bamboohr.com/careers/172/?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Tampa, FL"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794988417,
-  "date_updated": 1795567704,
-  "category": "data",
-  "terms": [],
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "4aee94bd-d68e-4a74-8abf-ff47974b009f"
-  },
-  "understudy_url": ""
- },
- {
-  "id": "external--c0ee6fb3-e347-4bbf-ab4d-d8651f68b82e",
-  "company_name": "Arcadion",
-  "title": "Junior AI Developer",
-  "url": "https://arcadion.bamboohr.com/careers/52/?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Ottawa, ON, Canada"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794987486,
-  "date_updated": 1795567704,
-  "category": "data",
-  "terms": [],
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "c0ee6fb3-e347-4bbf-ab4d-d8651f68b82e"
-  },
-  "understudy_url": ""
- },
- {
-  "id": "external--52842b72-580a-4029-af03-19bd23fbd290",
-  "company_name": "Bloom Ads",
-  "title": "Data Analytics Coordinator",
-  "url": "https://bloomadsglobalmedia.bamboohr.com/careers/141/?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Woodland Hills, LA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794987049,
-  "date_updated": 1795567704,
-  "category": "data",
-  "terms": [],
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "52842b72-580a-4029-af03-19bd23fbd290"
-  },
-  "understudy_url": ""
- },
- {
-  "id": "external--7740081c-352f-43aa-8157-7d66734b20a1",
-  "company_name": "ID Plans",
-  "title": "Field Data Specialist",
-  "url": "https://idplans1.bamboohr.com/careers/318/?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Columbia, SC"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794985389,
-  "date_updated": 1795567704,
-  "category": "data",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "7740081c-352f-43aa-8157-7d66734b20a1"
-  },
-  "understudy_url": ""
- },
- {
-  "id": "external--51cd4751-c195-4e57-b130-ba4a16667d27",
-  "company_name": "ID Plans",
-  "title": "Field Data Specialist",
-  "url": "https://idplans1.bamboohr.com/careers/316/?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Nashville, TN"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794985389,
-  "date_updated": 1795567704,
-  "category": "data",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "51cd4751-c195-4e57-b130-ba4a16667d27"
-  },
-  "understudy_url": ""
- },
- {
-  "id": "external--22af8e8d-d2ef-40ad-b2e6-7a8b880340ac",
-  "company_name": "ID Plans",
-  "title": "Field Data Specialist",
-  "url": "https://idplans1.bamboohr.com/careers/319/?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Reno, NV"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794985389,
-  "date_updated": 1795567704,
-  "category": "data",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "22af8e8d-d2ef-40ad-b2e6-7a8b880340ac"
-  },
-  "understudy_url": ""
- },
- {
-  "id": "workday-starfish|careers-r2207",
-  "company_name": "Starfish",
-  "title": "Junior-Level Modeling & Simulation Software Engineer",
-  "url": "https://starfish.wd501.myworkdayjobs.com/careers/job/Huntsville-AL/Junior-Level-Modeling---Simulation-Software-Engineer_R2207?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Huntsville, AL"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794983774,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "U.S. Citizenship is Required",
-  "on_simplify": false,
-  "source": {
-   "ats": "workday",
-   "board": "starfish|careers",
-   "job_id": "R2207"
-  },
-  "understudy_url": "https://understudy.live/apply/30824189?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "eightfold-lockheedmartin-996477701616",
-  "company_name": "Lockheed Martin",
-  "title": "Electrical Engineer Associate - Early Career - Grand Prairie, TX",
-  "url": "https://lockheedmartin.eightfold.ai/careers/job/996477701616?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Grand Prairie, TX, US"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794981600,
-  "date_updated": 1795567704,
-  "category": "hardware",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "eightfold",
-   "board": "lockheedmartin",
-   "job_id": "996477701616"
-  },
-  "understudy_url": "https://understudy.live/apply/29960733?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "jibe-se.jibeapply.com-141336",
-  "company_name": "Schneider Electric",
-  "title": "Engineer I, Software",
-  "url": "https://se.jibeapply.com/jobs/141336?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Chicago, Illinois",
-   "Westmont, Illinois"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794978000,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "jibe",
-   "board": "se.jibeapply.com",
-   "job_id": "141336"
-  },
-  "understudy_url": "https://understudy.live/apply/30227843?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "jibe-careers.vtgdefense.com-9788",
-  "company_name": "VTG",
-  "title": "Junior DevSecOps Engineer",
-  "url": "https://careers.vtgdefense.com/jobs/9788?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Fort Meade, Maryland"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794975300,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "jibe",
-   "board": "careers.vtgdefense.com",
-   "job_id": "9788"
-  },
-  "understudy_url": "https://understudy.live/apply/29995690?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "external--2ebe6dc0-7a17-40c2-a840-c58c312185d9",
-  "company_name": "Amazon",
-  "title": "Software Development Engineer - Robotics",
-  "url": "https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Austin, TX",
-   "North Reading, MA",
-   "Westborough, MA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794970278,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "2ebe6dc0-7a17-40c2-a840-c58c312185d9"
-  },
-  "understudy_url": ""
- },
- {
-  "id": "smartrecruiters-abbvie-3743990016926506",
-  "company_name": "AbbVie",
-  "title": "Associate Data Engineer II",
-  "url": "https://jobs.smartrecruiters.com/abbvie/3743990016926506?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Mettawa, IL, United States"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794969852,
-  "date_updated": 1795567704,
-  "category": "data",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "smartrecruiters",
-   "board": "abbvie",
-   "job_id": "3743990016926506"
-  },
-  "understudy_url": "https://understudy.live/apply/29915774?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "external--220d3750-60bb-4dfd-81bf-654d4be5bac7",
-  "company_name": "L3Harris Technologies",
-  "title": "Senior Associate, Systems Engineer",
-  "url": "https://jobs.l3harris.com/job/Cincinnati-Senior-Associate,-Systems-Engineering-OH-45245/1451655900/?ats=successfactors&utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Cincinnati, OH"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794969593,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "220d3750-60bb-4dfd-81bf-654d4be5bac7"
-  },
-  "understudy_url": ""
- },
- {
-  "id": "rippling-longshot-4392677a-3d26-4049-845d-bb7fb04246fd",
-  "company_name": "Longshot Space Technologies",
-  "title": "Electrical Engineer I",
-  "url": "https://ats.rippling.com/longshot/jobs/4392677a-3d26-4049-845d-bb7fb04246fd?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Alameda, CA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794969563,
-  "date_updated": 1795567704,
-  "category": "hardware",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "rippling",
-   "board": "longshot",
-   "job_id": "4392677a-3d26-4049-845d-bb7fb04246fd"
-  },
-  "understudy_url": "https://understudy.live/apply/29900083?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workable-ecliptic-enterprises-corporation-57ecafad83",
-  "company_name": "Ecliptic Enterprises",
-  "title": "Electrical Engineer",
-  "url": "https://apply.workable.com/ecliptic-enterprises-corporation/j/57ECAFAD83/?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "San Luis Obispo, CA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794969130,
-  "date_updated": 1795567704,
-  "category": "hardware",
-  "terms": [],
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "U.S. Citizenship is Required",
-  "on_simplify": true,
-  "source": {
-   "ats": "workable",
-   "board": "ecliptic-enterprises-corporation",
-   "job_id": "57ECAFAD83"
-  },
-  "understudy_url": "https://understudy.live/apply/29918546?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "external--304f32e2-fcf6-4a65-9220-0d88ea6a8440",
-  "company_name": "TikTok",
-  "title": "Logistics Product Manager Graduate - Supply Chain and Logistics",
-  "url": "https://lifeattiktok.com/search/7704910847553931573?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Seattle, WA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794967873,
-  "date_updated": 1795567704,
-  "category": "pm",
-  "terms": [],
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "on_simplify": true,
-  "source": {
-   "ats": "external",
-   "board": "",
-   "job_id": "304f32e2-fcf6-4a65-9220-0d88ea6a8440"
-  },
-  "understudy_url": ""
- },
- {
-  "id": "workday-vibrant|veh_external_career_site-jr100314-1",
-  "company_name": "Vibrant",
-  "title": "DevOps Engineer I",
-  "url": "https://vibrant.wd5.myworkdayjobs.com/veh_external_career_site/job/Remote-USA/DevOps-Engineer-I_JR100314-1?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Remote USA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794967385,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "workday",
-   "board": "vibrant|veh_external_career_site",
-   "job_id": "JR100314-1"
-  },
-  "understudy_url": "https://understudy.live/apply/31520812?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "ashby-graymatter-robotics-7f806a1c-2874-4a0b-a64c-d8e8e87822bf",
-  "company_name": "GrayMatter Robotics",
-  "title": "Forward Deployed Engineer",
-  "url": "https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Remote - USA"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794965890,
-  "date_updated": 1795567704,
-  "category": "data",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "U.S. Citizenship is Required",
-  "on_simplify": true,
-  "source": {
-   "ats": "ashby",
-   "board": "graymatter-robotics",
-   "job_id": "7f806a1c-2874-4a0b-a64c-d8e8e87822bf"
-  },
-  "understudy_url": "https://understudy.live/apply/29880819?utm_source=ghlist&utm_medium=row"
- },
- {
-  "id": "workday-tsc|tsc-careers-jr2897",
-  "company_name": "TSC",
-  "title": "Software Engineer I",
-  "url": "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Huntsville-AL-Discovery/Software-Engineer-I_JR2897?utm_source=understudy&ref=understudy-list",
-  "locations": [
-   "Huntsville, AL Discovery"
-  ],
-  "active": true,
-  "is_visible": true,
-  "date_posted": 1794964008,
-  "date_updated": 1795567704,
-  "category": "swe",
-  "terms": [],
-  "degrees": [],
-  "sponsorship": "Other",
-  "on_simplify": false,
-  "source": {
-   "ats": "workday",
-   "board": "tsc|TSC-Careers",
-   "job_id": "JR2897"
-  },
-  "understudy_url": "https://understudy.live/apply/30302046?utm_source=ghlist&utm_medium=row"
  }
 ]
